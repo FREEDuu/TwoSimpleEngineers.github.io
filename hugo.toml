@@ -1,4 +1,4 @@
-baseURL = 'https://freeduu.github.io/TwoSimpleEngineers.github.io/'
+baseURL = 'https://TwoSimpleEngineers.github.io/'
 languageCode = 'en-us'
 title = 'Two Simple Engineers'
 theme = 'ananke'
