@@ -1,9 +1,4 @@
 baseURL = 'https://freeduu.github.io/TwoSimpleEngineers.github.io/'
 languageCode = 'en-us'
 title = 'Two Simple Engineers'
-theme = 'hugo-geekblog'
-enableEmoji = true
-
-[params]
-author = "Francesco and Marco"
-description = "just another interesting blog"
+theme = 'ananke'
